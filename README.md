@@ -105,9 +105,11 @@ pip install numpy matplotlib scikit-learn torch
 
 ## How to Run
 
+```bash
 python experiment1.py
 python experiment2.py
 python experiment3.py
+```
 
 ------------------------------------------------------------------------
 
