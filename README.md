@@ -28,6 +28,7 @@ and generalization.
 
 ## Project Structure
 
+```bash
 .
 ├── fully_connected_nn.py
 ├── experiment1.py
@@ -36,6 +37,7 @@ and generalization.
 ├── helpers.py
 ├── generate_datasets.py
 └── README.md
+```
 
 ------------------------------------------------------------------------
 
